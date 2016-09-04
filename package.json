@@ -1,7 +1,7 @@
 {
   "name": "simple-async-class",
   "version": "0.1.0",
-  "description": "Utility function that convert all Class's generator functions into function that returns promise.",
+  "description": "Utility module that convert all Class's generator functions into function that returns promise.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
