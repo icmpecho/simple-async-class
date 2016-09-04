@@ -1,0 +1,4 @@
+--recursive
+--reporter spec
+--require test/setup.js
+--require co-mocha
