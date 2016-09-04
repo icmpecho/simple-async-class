@@ -1,0 +1,16 @@
+{
+  "name": "async-class-decorator",
+  "version": "1.0.0",
+  "description": "ES6 Class decorator that convert all generator functions into function that returns promise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "async",
+    "class",
+    "decorator"
+  ],
+  "author": "icmpecho",
+  "license": "MIT"
+}
